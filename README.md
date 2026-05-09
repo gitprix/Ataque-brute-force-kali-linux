@@ -37,7 +37,6 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
  ┣ 📂 comandos
  ┗ 📂 evidencias
 ```
-
 ---
 
 # ⚙️ Etapas Realizadas
