@@ -33,7 +33,7 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
 ```text
 📦 ataque-brute-force-kali-linux
  ┣ 📜 README.md
- ┣ 📂 images
+ ┣ 📂 imagem
  ┣ 📂 comandos
  ┗ 📂 evidencias
 ```
@@ -45,7 +45,11 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
 
 Foi configurado um laboratório virtual utilizando Kali Linux e Metasploitable 2 no VirtualBox.
 
-📸 Adicione aqui o print da configuração
+📸 
+
+
+
+
 
 
 ## 2️⃣ Testes de Conectividade
