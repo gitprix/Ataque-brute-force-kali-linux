@@ -35,7 +35,7 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
  ┣ 📜 README.md
  ┣ 📂 imagem
  ┣ 📂 comandos
- ┗ 📂 evidencias
+ ┗ 📂 evidências
 ```
 ---
 
@@ -46,6 +46,7 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
 Foi configurado um laboratório virtual utilizando Kali Linux e Metasploitable 2 no VirtualBox.
 
 📸 
+
 
 
 
