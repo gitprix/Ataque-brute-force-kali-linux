@@ -45,11 +45,7 @@ A atividade permitiu compreender técnicas de autenticação, testes de acesso e
 
 Foi configurado um laboratório virtual utilizando Kali Linux e Metasploitable 2 no VirtualBox.
 
-📸 
-
-
-
-
+📸 <img width="1919" height="1079" alt="configuracao_do_ambiente " src="https://github.com/user-attachments/assets/e8ff791e-7c9f-4a83-94f1-dc7e497973d9" />
 
 
 
@@ -64,7 +60,8 @@ ping
 ifconfig
 ```
 
-📸 Adicione print dos testes
+📸 <img width="1727" height="794" alt="teste_de_conectividade" src="https://github.com/user-attachments/assets/4eb19c8d-830d-4734-9b44-31aa393a2079" />
+
 
 ---
 
@@ -78,7 +75,8 @@ Foi utilizada a ferramenta Medusa para simular tentativas de autenticação.
 medusa -h IP -u usuario -P wordlist.txt -M serviço
 ```
 
-📸 Adicione print da execução
+📸 <img width="1383" height="748" alt="Executando_testes_e_validando_acesso_smbclient" src="https://github.com/user-attachments/assets/7b9c3d1a-ea3c-414a-ad81-3a2be4d9ee6c" />
+
 
 ---
 
@@ -86,7 +84,8 @@ medusa -h IP -u usuario -P wordlist.txt -M serviço
 
 Foram utilizadas listas de usuários e senhas para os testes.
 
-📸 Adicione print da wordlist
+📸 <img width="1917" height="813" alt="Criando_listas_usuario_senhas_e_teste_ftp" src="https://github.com/user-attachments/assets/a50ec566-93f5-4fea-8cd4-b769b4bcb5e0" />
+
 
 ---
 
